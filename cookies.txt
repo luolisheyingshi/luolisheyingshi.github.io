@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+haijiaoshequ-test.com	TRUE	/	FALSE	1999999999	PHPSESSID	9mtc30r37hpbjknfeqf6c0tpvq
+
